@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Aassignment/Experiment_1/Activity Multiple/app/src/main/res/layout-v27/activity_frame_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android_Aassignment/Experiment_1/Activity Multiple/app/src/main/res/layout/activity_frame_layout.xml" value="0.1693840579710145" />
+        <entry key="..\:/Android_Aassignment/Experiment_1/Activity Multiple/app/src/main/res/layout/activity_linear_layout_vertical.xml" value="0.18" />
+        <entry key="..\:/Android_Aassignment/Experiment_1/Activity Multiple/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android_Aassignment/Experiment_1/Activity Multiple/app/src/main/res/layout/activity_space_layout.xml" value="0.1675213675213675" />
+        <entry key="..\:/Android_Aassignment/Experiment_1/Activity Multiple/app/src/main/res/layout/activity_table_layout.xml" value="0.17028003613369466" />
+        <entry key="..\:/TY_B_30_Android/app/src/main/res/layout/activity_frame_layout.xml" value="0.15806159420289856" />
+        <entry key="..\:/TY_B_30_Android/app/src/main/res/layout/activity_linear_layout.xml" value="0.15806159420289856" />
+        <entry key="..\:/TY_B_30_Android/app/src/main/res/layout/activity_linear_layout_horizantal1.xml" value="0.15806159420289856" />
+        <entry key="..\:/TY_B_30_Android/app/src/main/res/layout/activity_linear_layout_vertical.xml" value="0.15806159420289856" />
+        <entry key="..\:/TY_B_30_Android/app/src/main/res/layout/activity_main.xml" value="0.17" />
+        <entry key="..\:/TY_B_30_Android/app/src/main/res/layout/activity_space_layout.xml" value="0.15806159420289856" />
+        <entry key="..\:/TY_B_30_Android/app/src/main/res/layout/activity_table_layout.xml" value="0.15806159420289856" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
